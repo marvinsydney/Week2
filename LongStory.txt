@@ -1,3 +1,8 @@
 Once upon a time.
 There is a kingdom.
 Lives a old king and his seven princes.
+<<<<<<< HEAD
+The king likes eating hotdogs.
+=======
+hanze liu 12509446
+>>>>>>> df29c5665bf4eece5b11c1adf93e5aeaa816400e
